@@ -5,9 +5,6 @@ import Header from './components/Header';
 import FeedPage from './pages/FeedPage';
 import ExplorePage from './pages/ExplorePage';
 import LoginPage from './pages/LoginPage';
-// import Body from './components/Body';
-// import Posts from './components/Posts';
-
 
 export default function App() {
   return (
